@@ -1,0 +1,6 @@
+{
+    "name": "ISO Hash Verifier Tool",
+    "description": "A tool to verify the integrity of ISO files using hash values.",    
+    "version": "1.0.0",
+    "category": "Utilities"
+}
